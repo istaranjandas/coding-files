@@ -48,7 +48,7 @@ public class convertNumbertoWord {
     }
   
     public static void main(String args[]) {
-      String str="29";
+      String str="909";
       convertnumintoword(str);
     }
   }

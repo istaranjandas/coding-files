@@ -1,5 +1,3 @@
-import java.util.*;
-import java.util.*;
 public class pallindrome {
     public static void main(String args[]) {
         int a = 2002;

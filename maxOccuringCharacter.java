@@ -23,7 +23,7 @@ public class maxOccuringCharacter {
                 ans = s.charAt(i);
             }
         }
-        System.out.println(ans);
+        System.out.println(ans+":"+max);
         System.out.println(elapsedTime);
     }
 }
